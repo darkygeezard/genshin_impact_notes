@@ -18,6 +18,7 @@
  * [Genshing GG](https://genshin.gg/)
  * [Genshin Lab](https://genshinlab.com/)
  * [Genshin Builds](https://genshin-builds.com)
+ * [Project Amber](https://ambr.top/en)
 
 ## Calculators and statistics
 
