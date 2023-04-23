@@ -3,6 +3,7 @@
 ## Wiki
 
  * [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
+ * [IGN Genshin Impact Wiki](https://www.ign.com/wikis/genshin-impact)
 
 ## Maps
 
@@ -16,6 +17,7 @@
  * [Honey Hunter World Genshin Database](https://genshin.honeyhunterworld.com/)
  * [Genshing GG](https://genshin.gg/)
  * [Genshin Lab](https://genshinlab.com/)
+ * [Genshin Builds](https://genshin-builds.com)
 
 ## Calculators and statistics
 
