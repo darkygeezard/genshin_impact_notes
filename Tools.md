@@ -15,6 +15,7 @@
 
  * [Honey Hunter World Genshin Database](https://genshin.honeyhunterworld.com/)
  * [Genshing GG](https://genshin.gg/)
+ * [Genshin Lab](https://genshinlab.com/)
 
 ## Calculators and statistics
 
