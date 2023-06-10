@@ -27,3 +27,8 @@
  * [Genshin Tools by HotGames.GG](https://genshin.appsample.com)
  * [Spiral Abyss Analytics](https://spiralabyss.org/)
  * [Genshin Impact Helper Team's Character Builds](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq-sQxkvdbvaJtQAGG6iVz2q2UN9FCKZ8Mkyis87QHFptcOU3ViLh0_PJyMxFSgwJZrd10kbYpQFl1/pubhtml#)
+ * [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/)
+
+## Theorycrafting
+
+ * [Keqing Mains Theorycrafting](https://library.keqingmains.com/theorycrafting)
