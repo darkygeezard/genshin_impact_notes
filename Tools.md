@@ -19,6 +19,7 @@
  * [Genshin Lab](https://genshinlab.com/)
  * [Genshin Builds](https://genshin-builds.com)
  * [Project Amber](https://ambr.top/en)
+ * [Icy Veins](https://www.icy-veins.com/genshin-impact/)
 
 ## Calculators and statistics
 
